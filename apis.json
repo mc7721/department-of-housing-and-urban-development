@@ -1,0 +1,49 @@
+{
+    "name": "Department of Housing and Urban Development",
+    "description": "<p>The United States Department of Housing and Urban Development (HUD) is a Cabinet department in the Executive branch of the United States federal government. Although its beginnings were in the House and Home Financing Agency, it was founded as a Cabinet department in 1965, as part of the \"Great Society\" program of President Lyndon Johnson, to develop and execute policies on housing and metropolises.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-DeptOfHUD-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-housing-and-urban-development\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Housing and Urban Development",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-DeptOfHUD-Seal.svg.png",
+            "humanURL": "http:\/\/www.hud.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-housing-and-urban-development-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/data.hud.gov"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.hud.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.hud.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Department_of_Housing_and_Urban_Development"
+        }
+    ]
+}
